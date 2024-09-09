@@ -1,0 +1,14 @@
+\\iscsi\profstud\ovchinnikovkv\Desktop\num2\ConsoleApp2\bin\Debug\net8.0\numtwo2.exe
+\\iscsi\profstud\ovchinnikovkv\Desktop\num2\ConsoleApp2\bin\Debug\net8.0\numtwo2.deps.json
+\\iscsi\profstud\ovchinnikovkv\Desktop\num2\ConsoleApp2\bin\Debug\net8.0\numtwo2.runtimeconfig.json
+\\iscsi\profstud\ovchinnikovkv\Desktop\num2\ConsoleApp2\bin\Debug\net8.0\numtwo2.dll
+\\iscsi\profstud\ovchinnikovkv\Desktop\num2\ConsoleApp2\bin\Debug\net8.0\numtwo2.pdb
+\\iscsi\profstud\ovchinnikovkv\Desktop\num2\ConsoleApp2\obj\Debug\net8.0\numtwo2.GeneratedMSBuildEditorConfig.editorconfig
+\\iscsi\profstud\ovchinnikovkv\Desktop\num2\ConsoleApp2\obj\Debug\net8.0\numtwo2.AssemblyInfoInputs.cache
+\\iscsi\profstud\ovchinnikovkv\Desktop\num2\ConsoleApp2\obj\Debug\net8.0\numtwo2.AssemblyInfo.cs
+\\iscsi\profstud\ovchinnikovkv\Desktop\num2\ConsoleApp2\obj\Debug\net8.0\numtwo2.csproj.CoreCompileInputs.cache
+\\iscsi\profstud\ovchinnikovkv\Desktop\num2\ConsoleApp2\obj\Debug\net8.0\numtwo2.dll
+\\iscsi\profstud\ovchinnikovkv\Desktop\num2\ConsoleApp2\obj\Debug\net8.0\refint\numtwo2.dll
+\\iscsi\profstud\ovchinnikovkv\Desktop\num2\ConsoleApp2\obj\Debug\net8.0\numtwo2.pdb
+\\iscsi\profstud\ovchinnikovkv\Desktop\num2\ConsoleApp2\obj\Debug\net8.0\numtwo2.genruntimeconfig.cache
+\\iscsi\profstud\ovchinnikovkv\Desktop\num2\ConsoleApp2\obj\Debug\net8.0\ref\numtwo2.dll
